@@ -9,7 +9,7 @@
 
 All the following commands should be run within a terminal
 
-# you should install all python dependencies by running
+# install all python dependencies by running
 
 pip install -r requirements.txt --user
 
