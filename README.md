@@ -6,23 +6,25 @@
 - pip
 - npm installed globally if not installed with nodeJS
 
-# you should install all python dependencies
+All the following commands should be run within a terminal
 
->>> pip install -r requirements.txt --user
+# you should install all python dependencies by running
+
+pip install -r requirements.txt --user
 
 (if some packages are requisite, please install)
 
 # within frontend directory - install vue dependencies
 
->>> npm install
+npm install
 
 # to run vue server :
 
->>> npm run serve
+npm run serve
 
 # within backend directory - to run flask server
 
->>> python flask_server.py
+python flask_server.py
 
 # you can modify running port by modifying that file (flask_server.py)
 
