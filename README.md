@@ -18,11 +18,11 @@ pip install -r requirements.txt --user
 
 npm install
 
-# to run vue server :
+# to run vue server (frontend)
 
 npm run serve
 
-# within backend directory - to run flask server
+# within backend directory - to run flask server (backend)
 
 python flask_server.py
 
