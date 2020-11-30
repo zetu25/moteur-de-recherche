@@ -23,6 +23,8 @@ npm install
 
 npm run serve
 
+then go on the link showed on the terminal
+
 # within the root directory - to run flask server (backend)
 
 python .\backend\flask_server.py
