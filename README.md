@@ -1,6 +1,6 @@
 # moteur-de-recherche
 
-prerequisites : 
+# prerequisites : 
 - nodeJS installed globally 
 - python 3
 - pip
