@@ -22,9 +22,9 @@ npm install
 
 npm run serve
 
-# within backend directory - to run flask server (backend)
+# within the root directory - to run flask server (backend)
 
-python flask_server.py
+python .\backend\flask_server.py
 
 # you can modify running port by modifying that file (flask_server.py)
 
