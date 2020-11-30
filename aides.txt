@@ -1,0 +1,19 @@
+if i summarize what i understand about the information content similarity computation:
+
+We have to compute :
+
+Sim(c1,c2) = max [-log p(c) ]
+
+where c is in the Set of concepts that subsume both c1 and c2.
+
+Moreover
+p(c) = freq(c) / N
+
+where
+
+freq(c) = number of times c or a child concept of c appear in all articles sets.
+
+And
+
+N = total number of types observed across all article
+N = total number of frequency of all the concepts

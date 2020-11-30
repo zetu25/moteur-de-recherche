@@ -1,0 +1,2513 @@
+{
+  "id": 2,
+  "name": "entity",
+  "children": [
+    {
+      "id": 6,
+      "name": "person",
+      "children": [
+        {
+          "id": 10,
+          "name": "ruler",
+          "children": [
+            {
+              "id": 14,
+              "name": "ruler.sovereign",
+              "children": [
+                {
+                  "id": 18,
+                  "name": "ruler.king"
+                },
+                {
+                  "id": 22,
+                  "name": "ruler.emperor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "linguist31",
+          "children": [
+            {
+              "id": 34,
+              "name": "translator"
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "name": "national"
+        },
+        {
+          "id": 44,
+          "name": "combatant",
+          "children": [
+            {
+              "id": 48,
+              "name": "boxer"
+            },
+            {
+              "id": 52,
+              "name": "wrestler"
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "name": "scientist",
+          "children": [
+            {
+              "id": 62,
+              "name": "scientist.computer_scientist"
+            },
+            {
+              "id": 66,
+              "name": "physicist",
+              "children": [
+                {
+                  "id": 70,
+                  "name": "astronomer"
+                }
+              ]
+            },
+            {
+              "id": 76,
+              "name": "psychologist"
+            },
+            {
+              "id": 80,
+              "name": "mathematician"
+            },
+            {
+              "id": 84,
+              "name": "geologist"
+            },
+            {
+              "id": 88,
+              "name": "social_scientist",
+              "children": [
+                {
+                  "id": 92,
+                  "name": "economist"
+                },
+                {
+                  "id": 96,
+                  "name": "sociologist"
+                },
+                {
+                  "id": 100,
+                  "name": "anthropologist"
+                },
+                {
+                  "id": 104,
+                  "name": "political_scientist"
+                }
+              ]
+            },
+            {
+              "id": 110,
+              "name": "linguist2"
+            },
+            {
+              "id": 114,
+              "name": "chemist",
+              "children": [
+                {
+                  "id": 118,
+                  "name": "biochemist"
+                }
+              ]
+            },
+            {
+              "id": 124,
+              "name": "biologist",
+              "children": [
+                {
+                  "id": 128,
+                  "name": "botanist"
+                },
+                {
+                  "id": 132,
+                  "name": "zoologist"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 140,
+          "name": "collector"
+        },
+        {
+          "id": 144,
+          "name": "communicator",
+          "children": [
+            {
+              "id": 148,
+              "name": "articulator",
+              "children": [
+                {
+                  "id": 152,
+                  "name": "speaker"
+                }
+              ]
+            },
+            {
+              "id": 158,
+              "name": "presenter"
+            },
+            {
+              "id": 162,
+              "name": "negotiator",
+              "children": [
+                {
+                  "id": 166,
+                  "name": "representative",
+                  "children": [
+                    {
+                      "id": 170,
+                      "name": "head_of_state",
+                      "children": [
+                        {
+                          "id": 174,
+                          "name": "head_of_state.sovereign",
+                          "children": [
+                            {
+                              "id": 178,
+                              "name": "head_of_state.king"
+                            },
+                            {
+                              "id": 182,
+                              "name": "head_of_state.emperor"
+                            }
+                          ]
+                        },
+                        {
+                          "id": 188,
+                          "name": "premier"
+                        },
+                        {
+                          "id": 192,
+                          "name": "president"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 202,
+              "name": "writer",
+              "children": [
+                {
+                  "id": 206,
+                  "name": "lyricist"
+                },
+                {
+                  "id": 210,
+                  "name": "scriptwriter",
+                  "children": [
+                    {
+                      "id": 214,
+                      "name": "screenwriter"
+                    }
+                  ]
+                },
+                {
+                  "id": 220,
+                  "name": "dramatist"
+                },
+                {
+                  "id": 224,
+                  "name": "essayist"
+                },
+                {
+                  "id": 228,
+                  "name": "poet"
+                },
+                {
+                  "id": 232,
+                  "name": "novelist"
+                },
+                {
+                  "id": 236,
+                  "name": "journalist",
+                  "children": [
+                    {
+                      "id": 240,
+                      "name": "columnist"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 250,
+          "name": "peer2",
+          "children": [
+            {
+              "id": 254,
+              "name": "associate",
+              "children": [
+                {
+                  "id": 258,
+                  "name": "member",
+                  "children": [
+                    {
+                      "id": 262,
+                      "name": "fellow"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 272,
+          "name": "capitalist",
+          "children": [
+            {
+              "id": 276,
+              "name": "businessperson",
+              "children": [
+                {
+                  "id": 280,
+                  "name": "businessman"
+                }
+              ]
+            },
+            {
+              "id": 286,
+              "name": "financier",
+              "children": [
+                {
+                  "id": 290,
+                  "name": "banker"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 298,
+          "name": "good_person",
+          "children": [
+            {
+              "id": 302,
+              "name": "benefactor",
+              "children": [
+                {
+                  "id": 306,
+                  "name": "donor",
+                  "children": [
+                    {
+                      "id": 310,
+                      "name": "philanthropist"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 318,
+              "name": "saint"
+            }
+          ]
+        },
+        {
+          "id": 324,
+          "name": "adjudicator",
+          "children": [
+            {
+              "id": 328,
+              "name": "adjudicator.judge"
+            }
+          ]
+        },
+        {
+          "id": 334,
+          "name": "computer_user",
+          "children": [
+            {
+              "id": 338,
+              "name": "computer_user.computer_scientist"
+            }
+          ]
+        },
+        {
+          "id": 344,
+          "name": "female",
+          "children": [
+            {
+              "id": 348,
+              "name": "female.woman"
+            }
+          ]
+        },
+        {
+          "id": 354,
+          "name": "traveler",
+          "children": [
+            {
+              "id": 358,
+              "name": "astronaut"
+            }
+          ]
+        },
+        {
+          "id": 364,
+          "name": "intellectual",
+          "children": [
+            {
+              "id": 368,
+              "name": "theorist"
+            },
+            {
+              "id": 372,
+              "name": "scholar",
+              "children": [
+                {
+                  "id": 376,
+                  "name": "musicologist"
+                },
+                {
+                  "id": 380,
+                  "name": "theologian"
+                },
+                {
+                  "id": 384,
+                  "name": "philosopher",
+                  "children": [
+                    {
+                      "id": 388,
+                      "name": "naturalist"
+                    }
+                  ]
+                },
+                {
+                  "id": 394,
+                  "name": "humanist",
+                  "children": [
+                    {
+                      "id": 398,
+                      "name": "philologist"
+                    }
+                  ]
+                },
+                {
+                  "id": 404,
+                  "name": "historian",
+                  "children": [
+                    {
+                      "id": 408,
+                      "name": "art_historian"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 418,
+          "name": "preserver",
+          "children": [
+            {
+              "id": 422,
+              "name": "defender"
+            }
+          ]
+        },
+        {
+          "id": 428,
+          "name": "worker",
+          "children": [
+            {
+              "id": 432,
+              "name": "assistant",
+              "children": [
+                {
+                  "id": 436,
+                  "name": "model"
+                }
+              ]
+            },
+            {
+              "id": 442,
+              "name": "skilled_worker",
+              "children": [
+                {
+                  "id": 446,
+                  "name": "aviator",
+                  "children": [
+                    {
+                      "id": 450,
+                      "name": "pilot"
+                    }
+                  ]
+                },
+                {
+                  "id": 456,
+                  "name": "official",
+                  "children": [
+                    {
+                      "id": 460,
+                      "name": "official.judge"
+                    },
+                    {
+                      "id": 464,
+                      "name": "diplomat",
+                      "children": [
+                        {
+                          "id": 468,
+                          "name": "ambassador"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 474,
+                      "name": "civil_servant"
+                    },
+                    {
+                      "id": 478,
+                      "name": "elected_official",
+                      "children": [
+                        {
+                          "id": 482,
+                          "name": "lieutenant_governor"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 490,
+                  "name": "serviceman",
+                  "children": [
+                    {
+                      "id": 494,
+                      "name": "military_officer",
+                      "children": [
+                        {
+                          "id": 498,
+                          "name": "commissioned_officer",
+                          "children": [
+                            {
+                              "id": 502,
+                              "name": "commissioned_naval_officer",
+                              "children": [
+                                {
+                                  "id": 506,
+                                  "name": "flag_officer",
+                                  "children": [
+                                    {
+                                      "id": 510,
+                                      "name": "admiral"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": 518,
+                              "name": "commissioned_military_officer",
+                              "children": [
+                                {
+                                  "id": 522,
+                                  "name": "general_officer",
+                                  "children": [
+                                    {
+                                      "id": 526,
+                                      "name": "general"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": 538,
+                      "name": "enlisted_person",
+                      "children": [
+                        {
+                          "id": 542,
+                          "name": "soldier"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 550,
+                  "name": "editor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 558,
+          "name": "explorer"
+        },
+        {
+          "id": 562,
+          "name": "authority2",
+          "children": [
+            {
+              "id": 566,
+              "name": "civil_authority",
+              "children": [
+                {
+                  "id": 570,
+                  "name": "civil_authority.mayor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 578,
+          "name": "entertainer",
+          "children": [
+            {
+              "id": 582,
+              "name": "performer",
+              "children": [
+                {
+                  "id": 586,
+                  "name": "performer.musician2",
+                  "children": [
+                    {
+                      "id": 590,
+                      "name": "performer.guitarist"
+                    },
+                    {
+                      "id": 594,
+                      "name": "performer.singer",
+                      "children": [
+                        {
+                          "id": 598,
+                          "name": "performer.rapper"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 604,
+                      "name": "performer.organist"
+                    },
+                    {
+                      "id": 608,
+                      "name": "performer.pianist"
+                    },
+                    {
+                      "id": 612,
+                      "name": "performer.saxophonist"
+                    },
+                    {
+                      "id": 616,
+                      "name": "performer.violinist"
+                    }
+                  ]
+                },
+                {
+                  "id": 622,
+                  "name": "actor",
+                  "children": [
+                    {
+                      "id": 626,
+                      "name": "actress"
+                    }
+                  ]
+                },
+                {
+                  "id": 632,
+                  "name": "comedian"
+                },
+                {
+                  "id": 636,
+                  "name": "dancer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 644,
+          "name": "engineer"
+        },
+        {
+          "id": 648,
+          "name": "contestant",
+          "children": [
+            {
+              "id": 652,
+              "name": "athlete",
+              "children": [
+                {
+                  "id": 656,
+                  "name": "athlete.football_player"
+                },
+                {
+                  "id": 660,
+                  "name": "athlete.soccer_player",
+                  "children": [
+                    {
+                      "id": 664,
+                      "name": "athlete.soccer_player.goalkeeper",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 671,
+                  "name": "athlete.tennis_player"
+                },
+                {
+                  "id": 675,
+                  "name": "athlete.hockey_player",
+                  "children": [
+                    {
+                      "id": 679,
+                      "name": "athlete.hockey_player.goalkeeper",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 686,
+                  "name": "winger"
+                },
+                {
+                  "id": 690,
+                  "name": "runner"
+                },
+                {
+                  "id": 694,
+                  "name": "basketball_player",
+                  "children": [
+                    {
+                      "id": 698,
+                      "name": "forward"
+                    }
+                  ]
+                },
+                {
+                  "id": 704,
+                  "name": "cricketer"
+                }
+              ]
+            },
+            {
+              "id": 710,
+              "name": "player",
+              "children": [
+                {
+                  "id": 714,
+                  "name": "player.football_player"
+                },
+                {
+                  "id": 718,
+                  "name": "player.soccer_player",
+                  "children": [
+                    {
+                      "id": 722,
+                      "name": "player.soccer_player.goalkeeper",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 729,
+                  "name": "player.tennis_player"
+                },
+                {
+                  "id": 733,
+                  "name": "player.hockey_player",
+                  "children": [
+                    {
+                      "id": 737,
+                      "name": "player.hockey_player.goalkeeper",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 744,
+                  "name": "grandmaster"
+                }
+              ]
+            },
+            {
+              "id": 750,
+              "name": "winner",
+              "children": [
+                {
+                  "id": 754,
+                  "name": "medalist"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 762,
+          "name": "disputant",
+          "children": [
+            {
+              "id": 766,
+              "name": "reformer",
+              "children": [
+                {
+                  "id": 770,
+                  "name": "feminist"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 778,
+          "name": "male",
+          "children": [
+            {
+              "id": 782,
+              "name": "male.man"
+            }
+          ]
+        },
+        {
+          "id": 788,
+          "name": "expert",
+          "children": [
+            {
+              "id": 792,
+              "name": "geographer"
+            },
+            {
+              "id": 796,
+              "name": "authority797",
+              "children": [
+                {
+                  "id": 800,
+                  "name": "evaluator",
+                  "children": [
+                    {
+                      "id": 804,
+                      "name": "critic805"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 812,
+              "name": "jurist"
+            },
+            {
+              "id": 816,
+              "name": "specialist",
+              "children": [
+                {
+                  "id": 820,
+                  "name": "orientalist"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 828,
+          "name": "adult",
+          "children": [
+            {
+              "id": 832,
+              "name": "adult.man"
+            },
+            {
+              "id": 836,
+              "name": "adult.woman"
+            },
+            {
+              "id": 840,
+              "name": "professional",
+              "children": [
+                {
+                  "id": 844,
+                  "name": "lawyer"
+                },
+                {
+                  "id": 848,
+                  "name": "health_professional",
+                  "children": [
+                    {
+                      "id": 852,
+                      "name": "medical_practitioner",
+                      "children": [
+                        {
+                          "id": 856,
+                          "name": "doctor",
+                          "children": [
+                            {
+                              "id": 860,
+                              "name": "surgeon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 870,
+                  "name": "critic2",
+                  "children": [
+                    {
+                      "id": 874,
+                      "name": "literary_critic"
+                    }
+                  ]
+                },
+                {
+                  "id": 880,
+                  "name": "educator",
+                  "children": [
+                    {
+                      "id": 884,
+                      "name": "teacher",
+                      "children": [
+                        {
+                          "id": 888,
+                          "name": "missionary"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 898,
+              "name": "host"
+            }
+          ]
+        },
+        {
+          "id": 904,
+          "name": "unfortunate",
+          "children": [
+            {
+              "id": 908,
+              "name": "victim",
+              "children": [
+                {
+                  "id": 912,
+                  "name": "martyr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 920,
+          "name": "creator",
+          "children": [
+            {
+              "id": 924,
+              "name": "inventor"
+            },
+            {
+              "id": 928,
+              "name": "artist",
+              "children": [
+                {
+                  "id": 932,
+                  "name": "photographer"
+                },
+                {
+                  "id": 936,
+                  "name": "illustrator"
+                },
+                {
+                  "id": 940,
+                  "name": "painter"
+                },
+                {
+                  "id": 944,
+                  "name": "sculptor"
+                },
+                {
+                  "id": 948,
+                  "name": "draftsman",
+                  "children": [
+                    {
+                      "id": 952,
+                      "name": "cartoonist"
+                    }
+                  ]
+                },
+                {
+                  "id": 958,
+                  "name": "musician959",
+                  "children": [
+                    {
+                      "id": 962,
+                      "name": "musician963.musician2",
+                      "children": [
+                        {
+                          "id": 966,
+                          "name": "musician967.guitarist"
+                        },
+                        {
+                          "id": 970,
+                          "name": "musician971.singer",
+                          "children": [
+                            {
+                              "id": 974,
+                              "name": "musician975.rapper"
+                            }
+                          ]
+                        },
+                        {
+                          "id": 980,
+                          "name": "musician981.organist"
+                        },
+                        {
+                          "id": 984,
+                          "name": "musician985.pianist"
+                        },
+                        {
+                          "id": 988,
+                          "name": "musician989.saxophonist"
+                        },
+                        {
+                          "id": 992,
+                          "name": "musician993.violinist"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 998,
+                      "name": "composer",
+                      "children": [
+                        {
+                          "id": 1002,
+                          "name": "songwriter"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1008,
+                      "name": "conductor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 1016,
+              "name": "choreographer"
+            },
+            {
+              "id": 1020,
+              "name": "originator",
+              "children": [
+                {
+                  "id": 1024,
+                  "name": "pioneer"
+                }
+              ]
+            },
+            {
+              "id": 1030,
+              "name": "architect"
+            },
+            {
+              "id": 1034,
+              "name": "producer",
+              "children": [
+                {
+                  "id": 1038,
+                  "name": "film_maker",
+                  "children": [
+                    {
+                      "id": 1042,
+                      "name": "film_director"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1052,
+          "name": "leader",
+          "children": [
+            {
+              "id": 1056,
+              "name": "trainer",
+              "children": [
+                {
+                  "id": 1060,
+                  "name": "coach",
+                  "children": [
+                    {
+                      "id": 1064,
+                      "name": "football_coach"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 1072,
+              "name": "lawgiver",
+              "children": [
+                {
+                  "id": 1076,
+                  "name": "lawgiver.legislator",
+                  "children": [
+                    {
+                      "id": 1080,
+                      "name": "lawgiver.senator"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 1088,
+              "name": "politician1089",
+              "children": [
+                {
+                  "id": 1092,
+                  "name": "politician1093.mayor"
+                },
+                {
+                  "id": 1096,
+                  "name": "politician1097.legislator",
+                  "children": [
+                    {
+                      "id": 1100,
+                      "name": "politician1101.senator"
+                    }
+                  ]
+                },
+                {
+                  "id": 1106,
+                  "name": "governor"
+                }
+              ]
+            },
+            {
+              "id": 1112,
+              "name": "superior",
+              "children": [
+                {
+                  "id": 1116,
+                  "name": "supervisor",
+                  "children": [
+                    {
+                      "id": 1120,
+                      "name": "director2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 1128,
+              "name": "aristocrat",
+              "children": [
+                {
+                  "id": 1132,
+                  "name": "prince"
+                },
+                {
+                  "id": 1136,
+                  "name": "male_aristocrat",
+                  "children": [
+                    {
+                      "id": 1140,
+                      "name": "noble",
+                      "children": [
+                        {
+                          "id": 1144,
+                          "name": "peer1145",
+                          "children": [
+                            {
+                              "id": 1148,
+                              "name": "duke"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 1160,
+              "name": "politician2",
+              "children": [
+                {
+                  "id": 1164,
+                  "name": "socialist"
+                }
+              ]
+            },
+            {
+              "id": 1170,
+              "name": "head",
+              "children": [
+                {
+                  "id": 1174,
+                  "name": "secretary"
+                },
+                {
+                  "id": 1178,
+                  "name": "administrator1179",
+                  "children": [
+                    {
+                      "id": 1182,
+                      "name": "executive",
+                      "children": [
+                        {
+                          "id": 1186,
+                          "name": "vice_president"
+                        },
+                        {
+                          "id": 1190,
+                          "name": "minister"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1196,
+                      "name": "director1197"
+                    }
+                  ]
+                },
+                {
+                  "id": 1202,
+                  "name": "administrator2",
+                  "children": [
+                    {
+                      "id": 1206,
+                      "name": "commissioner"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 1214,
+              "name": "spiritual_leader",
+              "children": [
+                {
+                  "id": 1218,
+                  "name": "clergyman",
+                  "children": [
+                    {
+                      "id": 1222,
+                      "name": "priest",
+                      "children": [
+                        {
+                          "id": 1226,
+                          "name": "bishop",
+                          "children": [
+                            {
+                              "id": 1230,
+                              "name": "cardinal"
+                            },
+                            {
+                              "id": 1234,
+                              "name": "archbishop"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1250,
+      "name": "organization",
+      "children": [
+        {
+          "id": 1254,
+          "name": "institution",
+          "children": [
+            {
+              "id": 1258,
+              "name": "educational_institution",
+              "children": [
+                {
+                  "id": 1262,
+                  "name": "school",
+                  "children": [
+                    {
+                      "id": 1266,
+                      "name": "private_school",
+                      "children": [
+                        {
+                          "id": 1270,
+                          "name": "seminary"
+                        },
+                        {
+                          "id": 1274,
+                          "name": "boarding_school"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1280,
+                      "name": "graduate_school",
+                      "children": [
+                        {
+                          "id": 1284,
+                          "name": "medical_school"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1290,
+                      "name": "secondary_school",
+                      "children": [
+                        {
+                          "id": 1294,
+                          "name": "academy"
+                        },
+                        {
+                          "id": 1298,
+                          "name": "preparatory_school"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 1306,
+                  "name": "university"
+                }
+              ]
+            },
+            {
+              "id": 1312,
+              "name": "company"
+            }
+          ]
+        },
+        {
+          "id": 1318,
+          "name": "force",
+          "children": [
+            {
+              "id": 1322,
+              "name": "military_service",
+              "children": [
+                {
+                  "id": 1326,
+                  "name": "army"
+                },
+                {
+                  "id": 1330,
+                  "name": "air_force"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1338,
+          "name": "union"
+        },
+        {
+          "id": 1342,
+          "name": "association",
+          "children": [
+            {
+              "id": 1346,
+              "name": "institute"
+            },
+            {
+              "id": 1350,
+              "name": "club"
+            }
+          ]
+        },
+        {
+          "id": 1356,
+          "name": "unit",
+          "children": [
+            {
+              "id": 1360,
+              "name": "administrative_unit",
+              "children": [
+                {
+                  "id": 1364,
+                  "name": "division2",
+                  "children": [
+                    {
+                      "id": 1368,
+                      "name": "department"
+                    }
+                  ]
+                },
+                {
+                  "id": 1374,
+                  "name": "agency"
+                }
+              ]
+            },
+            {
+              "id": 1380,
+              "name": "military_unit",
+              "children": [
+                {
+                  "id": 1384,
+                  "name": "army_unit",
+                  "children": [
+                    {
+                      "id": 1388,
+                      "name": "division1389"
+                    },
+                    {
+                      "id": 1392,
+                      "name": "battalion"
+                    },
+                    {
+                      "id": 1396,
+                      "name": "artillery"
+                    },
+                    {
+                      "id": 1400,
+                      "name": "cavalry",
+                      "children": [
+                        {
+                          "id": 1404,
+                          "name": "squadron"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1410,
+                      "name": "regiment"
+                    },
+                    {
+                      "id": 1414,
+                      "name": "brigade"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 1422,
+              "name": "team",
+              "children": [
+                {
+                  "id": 1426,
+                  "name": "hockey_team"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1434,
+          "name": "enterprise",
+          "children": [
+            {
+              "id": 1438,
+              "name": "business",
+              "children": [
+                {
+                  "id": 1442,
+                  "name": "manufacturer"
+                },
+                {
+                  "id": 1446,
+                  "name": "firm",
+                  "children": [
+                    {
+                      "id": 1450,
+                      "name": "law_firm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1460,
+          "name": "party"
+        }
+      ]
+    },
+    {
+      "id": 1466,
+      "name": "event",
+      "children": [
+        {
+          "id": 1470,
+          "name": "event.group_action",
+          "children": [
+            {
+              "id": 1474,
+              "name": "event.military_action",
+              "children": [
+                {
+                  "id": 1478,
+                  "name": "event.blockade",
+                  "children": [
+                    {
+                      "id": 1482,
+                      "name": "event.siege"
+                    }
+                  ]
+                },
+                {
+                  "id": 1488,
+                  "name": "event.battle"
+                },
+                {
+                  "id": 1492,
+                  "name": "event.war"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1500,
+          "name": "social_event",
+          "children": [
+            {
+              "id": 1504,
+              "name": "contest",
+              "children": [
+                {
+                  "id": 1508,
+                  "name": "game1509"
+                }
+              ]
+            },
+            {
+              "id": 1514,
+              "name": "show2",
+              "children": [
+                {
+                  "id": 1518,
+                  "name": "broadcast",
+                  "children": [
+                    {
+                      "id": 1522,
+                      "name": "game_show"
+                    },
+                    {
+                      "id": 1526,
+                      "name": "talk_show"
+                    },
+                    {
+                      "id": 1530,
+                      "name": "television_program"
+                    },
+                    {
+                      "id": 1534,
+                      "name": "news_program"
+                    },
+                    {
+                      "id": 1538,
+                      "name": "serial",
+                      "children": [
+                        {
+                          "id": 1542,
+                          "name": "soap_opera"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1554,
+          "name": "act",
+          "children": [
+            {
+              "id": 1558,
+              "name": "act.group_action",
+              "children": [
+                {
+                  "id": 1562,
+                  "name": "act.military_action",
+                  "children": [
+                    {
+                      "id": 1566,
+                      "name": "act.blockade",
+                      "children": [
+                        {
+                          "id": 1570,
+                          "name": "act.siege"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1576,
+                      "name": "act.battle"
+                    },
+                    {
+                      "id": 1580,
+                      "name": "act.war"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 1588,
+              "name": "activity",
+              "children": [
+                {
+                  "id": 1592,
+                  "name": "operation",
+                  "children": [
+                    {
+                      "id": 1596,
+                      "name": "attack",
+                      "children": [
+                        {
+                          "id": 1600,
+                          "name": "bombing"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 1608,
+                  "name": "diversion",
+                  "children": [
+                    {
+                      "id": 1612,
+                      "name": "game2",
+                      "children": [
+                        {
+                          "id": 1616,
+                          "name": "computer_game"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1622,
+                      "name": "entertainment",
+                      "children": [
+                        {
+                          "id": 1626,
+                          "name": "show1627"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 1636,
+              "name": "propulsion",
+              "children": [
+                {
+                  "id": 1640,
+                  "name": "shooting"
+                },
+                {
+                  "id": 1644,
+                  "name": "pull",
+                  "children": [
+                    {
+                      "id": 1648,
+                      "name": "tug"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1660,
+      "name": "artifact",
+      "children": [
+        {
+          "id": 1664,
+          "name": "artifact.facility",
+          "children": [
+            {
+              "id": 1668,
+              "name": "artifact.depository",
+              "children": [
+                {
+                  "id": 1672,
+                  "name": "artifact.museum"
+                }
+              ]
+            },
+            {
+              "id": 1678,
+              "name": "airfield"
+            },
+            {
+              "id": 1682,
+              "name": "artifact.station"
+            }
+          ]
+        },
+        {
+          "id": 1688,
+          "name": "instrumentality",
+          "children": [
+            {
+              "id": 1692,
+              "name": "medium",
+              "children": [
+                {
+                  "id": 1696,
+                  "name": "telecommunication",
+                  "children": [
+                    {
+                      "id": 1700,
+                      "name": "broadcasting",
+                      "children": [
+                        {
+                          "id": 1704,
+                          "name": "television"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 1712,
+                  "name": "print_media",
+                  "children": [
+                    {
+                      "id": 1716,
+                      "name": "press",
+                      "children": [
+                        {
+                          "id": 1720,
+                          "name": "press.magazine"
+                        },
+                        {
+                          "id": 1724,
+                          "name": "newspaper"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 1732,
+                  "name": "album"
+                }
+              ]
+            },
+            {
+              "id": 1738,
+              "name": "device",
+              "children": [
+                {
+                  "id": 1742,
+                  "name": "instrument",
+                  "children": [
+                    {
+                      "id": 1746,
+                      "name": "weapon",
+                      "children": [
+                        {
+                          "id": 1750,
+                          "name": "weapon.missile"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 1758,
+                  "name": "memory_device",
+                  "children": [
+                    {
+                      "id": 1762,
+                      "name": "recording",
+                      "children": [
+                        {
+                          "id": 1766,
+                          "name": "sound_recording",
+                          "children": [
+                            {
+                              "id": 1770,
+                              "name": "soundtrack"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 1780,
+                  "name": "machine",
+                  "children": [
+                    {
+                      "id": 1784,
+                      "name": "computer"
+                    },
+                    {
+                      "id": 1788,
+                      "name": "motor",
+                      "children": [
+                        {
+                          "id": 1792,
+                          "name": "engine"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 1802,
+              "name": "conveyance",
+              "children": [
+                {
+                  "id": 1806,
+                  "name": "vehicle",
+                  "children": [
+                    {
+                      "id": 1810,
+                      "name": "vehicle.wheeled_vehicle",
+                      "children": [
+                        {
+                          "id": 1814,
+                          "name": "vehicle.self-propelled_vehicle",
+                          "children": [
+                            {
+                              "id": 1818,
+                              "name": "vehicle.motor_vehicle",
+                              "children": [
+                                {
+                                  "id": 1822,
+                                  "name": "vehicle.car",
+                                  "children": [
+                                    {
+                                      "id": 1826,
+                                      "name": "vehicle.sports_car",
+                                      "children": []
+                                    },
+                                    {
+                                      "id": 1831,
+                                      "name": "vehicle.compact",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1844,
+                      "name": "craft",
+                      "children": [
+                        {
+                          "id": 1848,
+                          "name": "vessel",
+                          "children": [
+                            {
+                              "id": 1852,
+                              "name": "ship",
+                              "children": [
+                                {
+                                  "id": 1856,
+                                  "name": "passenger_ship",
+                                  "children": [
+                                    {
+                                      "id": 1860,
+                                      "name": "liner"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": 1868,
+                              "name": "yacht"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1876,
+                      "name": "rocket",
+                      "children": [
+                        {
+                          "id": 1880,
+                          "name": "rocket.missile"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 1890,
+              "name": "container",
+              "children": [
+                {
+                  "id": 1894,
+                  "name": "container.wheeled_vehicle",
+                  "children": [
+                    {
+                      "id": 1898,
+                      "name": "container.self-propelled_vehicle",
+                      "children": [
+                        {
+                          "id": 1902,
+                          "name": "container.motor_vehicle",
+                          "children": [
+                            {
+                              "id": 1906,
+                              "name": "container.car",
+                              "children": [
+                                {
+                                  "id": 1910,
+                                  "name": "container.sports_car",
+                                  "children": []
+                                },
+                                {
+                                  "id": 1915,
+                                  "name": "container.compact"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1931,
+          "name": "artifact.structure",
+          "children": [
+            {
+              "id": 1935,
+              "name": "artifact.tower"
+            },
+            {
+              "id": 1939,
+              "name": "memorial"
+            },
+            {
+              "id": 1943,
+              "name": "building",
+              "children": [
+                {
+                  "id": 1947,
+                  "name": "building.house",
+                  "children": [
+                    {
+                      "id": 1951,
+                      "name": "building.residence",
+                      "children": [
+                        {
+                          "id": 1955,
+                          "name": "building.religious_residence",
+                          "children": [
+                            {
+                              "id": 1959,
+                              "name": "building.monastery"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 1969,
+                  "name": "place_of_worship",
+                  "children": [
+                    {
+                      "id": 1973,
+                      "name": "church"
+                    }
+                  ]
+                },
+                {
+                  "id": 1979,
+                  "name": "skyscraper"
+                },
+                {
+                  "id": 1983,
+                  "name": "hotel"
+                }
+              ]
+            },
+            {
+              "id": 1989,
+              "name": "artifact.bridge"
+            },
+            {
+              "id": 1993,
+              "name": "artifact.stadium"
+            },
+            {
+              "id": 1997,
+              "name": "artifact.obstruction",
+              "children": [
+                {
+                  "id": 2001,
+                  "name": "artifact.barrier",
+                  "children": [
+                    {
+                      "id": 2005,
+                      "name": "artifact.dam"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2013,
+              "name": "housing",
+              "children": [
+                {
+                  "id": 2017,
+                  "name": "dwelling",
+                  "children": [
+                    {
+                      "id": 2021,
+                      "name": "dwelling.house",
+                      "children": [
+                        {
+                          "id": 2025,
+                          "name": "dwelling.residence",
+                          "children": [
+                            {
+                              "id": 2029,
+                              "name": "dwelling.religious_residence",
+                              "children": [
+                                {
+                                  "id": 2033,
+                                  "name": "dwelling.monastery"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2047,
+              "name": "artifact.area",
+              "children": [
+                {
+                  "id": 2051,
+                  "name": "room",
+                  "children": [
+                    {
+                      "id": 2055,
+                      "name": "library"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2065,
+          "name": "excavation",
+          "children": [
+            {
+              "id": 2069,
+              "name": "mine"
+            }
+          ]
+        },
+        {
+          "id": 2075,
+          "name": "way",
+          "children": [
+            {
+              "id": 2079,
+              "name": "road",
+              "children": [
+                {
+                  "id": 2083,
+                  "name": "highway"
+                },
+                {
+                  "id": 2087,
+                  "name": "thoroughfare",
+                  "children": [
+                    {
+                      "id": 2091,
+                      "name": "street"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2101,
+          "name": "creation",
+          "children": [
+            {
+              "id": 2105,
+              "name": "product",
+              "children": [
+                {
+                  "id": 2109,
+                  "name": "movie",
+                  "children": [
+                    {
+                      "id": 2113,
+                      "name": "documentary"
+                    }
+                  ]
+                },
+                {
+                  "id": 2119,
+                  "name": "work",
+                  "children": [
+                    {
+                      "id": 2123,
+                      "name": "publication",
+                      "children": [
+                        {
+                          "id": 2127,
+                          "name": "publication.magazine"
+                        },
+                        {
+                          "id": 2131,
+                          "name": "book"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2141,
+              "name": "art",
+              "children": [
+                {
+                  "id": 2145,
+                  "name": "graphic_art",
+                  "children": [
+                    {
+                      "id": 2149,
+                      "name": "painting"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2161,
+      "name": "geoentity",
+      "children": [
+        {
+          "id": 2165,
+          "name": "geological_formation",
+          "children": [
+            {
+              "id": 2169,
+              "name": "range"
+            },
+            {
+              "id": 2173,
+              "name": "natural_depression",
+              "children": [
+                {
+                  "id": 2177,
+                  "name": "valley"
+                }
+              ]
+            },
+            {
+              "id": 2183,
+              "name": "beach"
+            },
+            {
+              "id": 2187,
+              "name": "natural_elevation",
+              "children": [
+                {
+                  "id": 2191,
+                  "name": "ridge",
+                  "children": [
+                    {
+                      "id": 2195,
+                      "name": "reef",
+                      "children": [
+                        {
+                          "id": 2199,
+                          "name": "coral_reef",
+                          "children": [
+                            {
+                              "id": 2203,
+                              "name": "atoll"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 2213,
+                  "name": "hill"
+                },
+                {
+                  "id": 2217,
+                  "name": "mountain"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2225,
+          "name": "geoentity.facility",
+          "children": [
+            {
+              "id": 2229,
+              "name": "geoentity.station"
+            },
+            {
+              "id": 2233,
+              "name": "geoentity.depository",
+              "children": [
+                {
+                  "id": 2237,
+                  "name": "geoentity.museum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2245,
+          "name": "location",
+          "children": [
+            {
+              "id": 2249,
+              "name": "point",
+              "children": [
+                {
+                  "id": 2253,
+                  "name": "geographic_point",
+                  "children": [
+                    {
+                      "id": 2257,
+                      "name": "port"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2265,
+              "name": "region2",
+              "children": [
+                {
+                  "id": 2269,
+                  "name": "county"
+                }
+              ]
+            },
+            {
+              "id": 2275,
+              "name": "region2276",
+              "children": [
+                {
+                  "id": 2279,
+                  "name": "district",
+                  "children": [
+                    {
+                      "id": 2283,
+                      "name": "residential_district",
+                      "children": [
+                        {
+                          "id": 2287,
+                          "name": "suburb"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 2293,
+                      "name": "administrative_district",
+                      "children": [
+                        {
+                          "id": 2297,
+                          "name": "administrative_district.municipality",
+                          "children": [
+                            {
+                              "id": 2301,
+                              "name": "administrative_district.town",
+                              "children": []
+                            },
+                            {
+                              "id": 2306,
+                              "name": "administrative_district.city",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": 2313,
+                          "name": "township"
+                        },
+                        {
+                          "id": 2317,
+                          "name": "commune"
+                        },
+                        {
+                          "id": 2321,
+                          "name": "borough"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 2329,
+                  "name": "geoentity.area",
+                  "children": [
+                    {
+                      "id": 2333,
+                      "name": "center",
+                      "children": [
+                        {
+                          "id": 2337,
+                          "name": "seat2338",
+                          "children": [
+                            {
+                              "id": 2341,
+                              "name": "capital"
+                            },
+                            {
+                              "id": 2345,
+                              "name": "county_seat"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": 2353,
+                      "name": "space",
+                      "children": [
+                        {
+                          "id": 2357,
+                          "name": "seat2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 2365,
+                  "name": "geographical_area",
+                  "children": [
+                    {
+                      "id": 2369,
+                      "name": "urban_area",
+                      "children": [
+                        {
+                          "id": 2373,
+                          "name": "urban_area.municipality",
+                          "children": [
+                            {
+                              "id": 2377,
+                              "name": "urban_area.town"
+                            },
+                            {
+                              "id": 2381,
+                              "name": "urban_area.city"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": 2389,
+                      "name": "tract",
+                      "children": [
+                        {
+                          "id": 2393,
+                          "name": "site"
+                        },
+                        {
+                          "id": 2397,
+                          "name": "plot",
+                          "children": [
+                            {
+                              "id": 2401,
+                              "name": "garden"
+                            }
+                          ]
+                        },
+                        {
+                          "id": 2407,
+                          "name": "park",
+                          "children": [
+                            {
+                              "id": 2411,
+                              "name": "national_park"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": 2419,
+                      "name": "settlement",
+                      "children": [
+                        {
+                          "id": 2423,
+                          "name": "village"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2435,
+          "name": "geoentity.structure",
+          "children": [
+            {
+              "id": 2439,
+              "name": "geoentity.tower"
+            },
+            {
+              "id": 2443,
+              "name": "geoentity.stadium"
+            },
+            {
+              "id": 2447,
+              "name": "geoentity.bridge"
+            },
+            {
+              "id": 2451,
+              "name": "geoentity.obstruction",
+              "children": [
+                {
+                  "id": 2455,
+                  "name": "geoentity.barrier",
+                  "children": [
+                    {
+                      "id": 2459,
+                      "name": "geoentity.dam"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2469,
+          "name": "land",
+          "children": [
+            {
+              "id": 2473,
+              "name": "island"
+            }
+          ]
+        },
+        {
+          "id": 2479,
+          "name": "body_of_water",
+          "children": [
+            {
+              "id": 2483,
+              "name": "gulf"
+            },
+            {
+              "id": 2487,
+              "name": "stream",
+              "children": [
+                {
+                  "id": 2491,
+                  "name": "river"
+                }
+              ]
+            },
+            {
+              "id": 2497,
+              "name": "lake"
+            },
+            {
+              "id": 2501,
+              "name": "sea"
+            },
+            {
+              "id": 2505,
+              "name": "bay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
