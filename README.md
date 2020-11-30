@@ -5,7 +5,7 @@
 - python 3
 - pip
 - npm installed globally if not installed with nodeJS
-- Access-Control-Allow-Origin installed as extension on Google Chrome
+- Access-Control-Allow-Origin installed as extension on Google Chrome and activated
 
 All the following commands should be run within a terminal
 
