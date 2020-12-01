@@ -1,9 +1,12 @@
+# This python file gather all utilities functions which are necessary
+import networkx as nx
 import json
 import numpy as np
 from collections import Counter
 
 
 f = open("backend\\dimension_name.txt")
+
 
 list_dimension_name = [(str(line.rstrip()), index)
                        for index, line in enumerate(f)]
@@ -59,3 +62,52 @@ def get_list_index(list_type):
         if (str(t) in dict_dimension_name.keys()):
             list_index.append(str(dict_dimension_name.get(str(t))))
     return list_index
+
+
+# Build a tree in python through recursion by taking in json object
+# inspired from source code from https://stackoverrun.com/fr/q/4120975
+# This class represent a node
+class node:
+    def _init_(self, name=None, children=None):
+        self.name = name
+        if children is None:
+            self.children = []
+        else:
+            self.children = children
+
+    def getName(self):
+        return self.name
+
+    def getChildren(self):
+        childrens = []
+        for children in self.children:
+            childrens.append(children.name)
+        return childrens
+
+# Tree class : represent json as tree
+class tree:
+    nodes = []
+    def buildnode(self, ob):
+        node1 = node()
+        node1.name = ob['name']
+        node1.children = []
+        if "children" in ob:
+            for children in ob['children']:
+                node1.children.append(self.buildnode(children))
+        self.nodes.append(node1)
+        return node1
+
+    def getNodes(self):
+        return self.nodes
+
+# Build a graph according to list of node
+
+
+def createGraph(nodes):
+    G = nx.Graph()
+    for node in nodes:
+        G.add_node(node.name)
+    for node in nodes:
+        for children in node.children:
+            G.add_edge(node.name, children.name)
+    return G

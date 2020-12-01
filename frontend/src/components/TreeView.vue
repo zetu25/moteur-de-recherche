@@ -41,8 +41,6 @@ export default {
   methods: {
     onUpdate() {
       store.commit('clear');
-      // console.log("There we are")
-      // console.log(this.selection)
       store.commit("change", this.selection);
     },
     clear() {

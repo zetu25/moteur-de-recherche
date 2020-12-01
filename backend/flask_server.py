@@ -19,7 +19,7 @@ def get_cosine_similarity():
 def get_semantic_path_length():
     entities = request.json['entities']
     print(entities)
-    semantic_path_dictionnary = getPathLengthSimilarity(entities)
+    semantic_path_dictionnary = get_path_length_similarity(entities, 10)
     return semantic_path_dictionnary
      
 
