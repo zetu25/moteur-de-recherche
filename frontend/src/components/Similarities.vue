@@ -9,14 +9,16 @@
 
         <v-divider vertical></v-divider>
 
-        <v-btn text @click="get_semantic_path_similarity"> Semantic PathLength </v-btn>
+        <v-btn text @click="get_semantic_path_similarity">
+          Semantic PathLength
+        </v-btn>
 
         <v-divider vertical></v-divider>
 
         <v-btn text> Semantic Content Similarity </v-btn>
       </v-toolbar-items>
     </v-toolbar>
- 
+    
     <v-list>
       <v-list-item
         v-model="results"
@@ -24,21 +26,18 @@
         :key="article.title"
       >
         <v-list-item-content>
-          
-            <v-list-item-title
-              :disabled="false"
-              v-text="article.score"
-            ></v-list-item-title>
+          <v-list-item-title
+            :disabled="false"
+            v-text="article.score"
+          ></v-list-item-title>
 
-            <v-list-item-title
-              :disabled="false"
-              v-text="article.title"
-            ></v-list-item-title>
-          
+          <v-list-item-title
+            :disabled="false"
+            v-text="article.title"
+          ></v-list-item-title>
         </v-list-item-content>
       </v-list-item>
     </v-list>
-  
   </v-container>
 </template>
 
@@ -49,12 +48,16 @@ import axios from "axios";
 export default {
   name: "Similarities",
   data: () => ({
-    results: store.state.results,
+    results: store.getters.results,
   }),
   methods: {
     get_cosine_similarity() {
+      // console.log("Get Cosine Similarity");
+      // console.log(this.selection);
       this.selection.forEach((element) => {
-        this.res.push(element.name);
+        if(!this.res.includes(element.name)){
+          this.res.push(element.name);
+        } 
       });
       axios
         .post("http://localhost:5000/cosine-similarity", {
@@ -62,31 +65,28 @@ export default {
         })
         .then((response) => {
           this.results = response.data;
-          
-          store.commit("clear");
         })
         .catch((e) => {
           this.errors.push(e);
         });
     },
-    get_semantic_path_similarity(){
+    get_semantic_path_similarity() {
       this.selection.forEach((element) => {
-        this.res.push(element.name);
+        if(!this.res.includes(element.name)){
+          this.res.push(element.name);
+        } 
       });
       axios
         .post("http://localhost:5000/semantic-path-length", {
           entities: this.res,
         })
         .then((response) => {
-          store.commit("clear");
           this.results = response.data;
-          console.log(this.results)
-          
         })
         .catch((e) => {
           this.errors.push(e);
         });
-    }
+    },
   },
   computed: {
     selection() {

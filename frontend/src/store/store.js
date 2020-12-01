@@ -17,9 +17,6 @@ const store = new Vuex.Store({
             state.selection = []
             state.res = []
             state.results = ""
-        },
-        change_results(state,results){
-            state.results = results
         }
     },
     getters: {
